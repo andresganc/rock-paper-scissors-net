@@ -1,2 +1,2 @@
-# course-servers
-NC Servers course
+# ROCK PAPER SCISSOR - RUST
+  -
